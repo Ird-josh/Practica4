@@ -1,1 +1,12 @@
 practicado
+
+
+String mermelada;
+String pan;
+String cremaCacahuate;
+
+
+
+System.out.println("Hola mundo");
+
+mermelada + pan + cremaCacahate = int sanwich;
